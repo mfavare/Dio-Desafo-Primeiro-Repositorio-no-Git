@@ -8,3 +8,11 @@ cd - navegação entre pastas dos diretórios utilizando o prompt de comando.
 mkdir - cria uma pasta dentro de uma ou várias pastas existentes ou na pasta raiz
 ls - lista o conteúdos de uma pasta, sendo permitido navegar em pastas através de seus argumentos.
 
+Para adicionar o arquivo que não aparece no diretorio, usar o comando:
+git add .
+
+Para comitar o arquivo ao git necessário fazer uso do comando:
+git commit -m "Adicionando comentario qualquer".
+
+Para transmitir o arquivo ao git, usar o comando:
+git push origin main
