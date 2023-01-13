@@ -1,0 +1,10 @@
+Para que seja feito repositório no Git/Github, é necessário fazer o download e instalar pelo site disponível:
+https://git-scm.com/downloads
+
+Terminando o download, na tela de pesquisa do Windows, chama pelo comando Git bash
+
+Os comandos iniciais 
+cd - navegação entre pastas dos diretórios utilizando o prompt de comando.
+mkdir - cria uma pasta dentro de uma ou várias pastas existentes ou na pasta raiz
+ls - lista o conteúdos de uma pasta, sendo permitido navegar em pastas através de seus argumentos.
+
